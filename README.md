@@ -34,3 +34,15 @@ Building a Hospital Management System in C++ to streamline patient data workflow
 ✉️ bangpeqih17@gmail.com
 
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+**Play games with me**
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufalfaqih1320/Naufalfaqih1320/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naufalfaqih1320/Naufalfaqih1320/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Naufalfaqih1320/Naufalfaqih1320/output/pacman-contribution-graph.svg">
+</picture>
+
+###
